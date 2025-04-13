@@ -12,7 +12,7 @@
 :: License for the specific language governing permissions and limitations under
 :: the License.
 
-@echo off
+@echo off heelo
 
 set configure_dir=%~dp0
 set configure_dir=%configure_dir:~0,-1%
